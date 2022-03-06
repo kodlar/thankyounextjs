@@ -3,3 +3,5 @@ https://www.youtube.com/watch?v=CM9RAdZlpCQ 1:13:57'de kaldım
 json data çekmek için placeholder kullanıyoruz
 https://jsonplaceholder.typicode.com/posts?_limit=5
 https://jsonplaceholder.typicode.com/
+
+https://nextjs.org/docs/api-reference/next/link
